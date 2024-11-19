@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ssrinivasan422
+- 👋 Hi, I’m Shruthi S
 - 👀 I’m interested in computer science and engineering
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning SQL
 - 📫 Reach me through email: ssrinivasan422@gmail.com
 
 <!---
